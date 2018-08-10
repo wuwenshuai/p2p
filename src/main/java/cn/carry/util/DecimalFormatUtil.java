@@ -3,7 +3,7 @@ package cn.carry.util;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-import com.xmg.p2p.base.util.BidConst;
+
 
 /**
  * 数字格式化工具类

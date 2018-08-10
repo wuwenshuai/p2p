@@ -2,11 +2,12 @@ package cn.carry.util;
 
 import javax.servlet.http.HttpSession;
 
+import cn.carry.domain.Logininfo;
+import cn.carry.vo.VerifyCodeVO;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
 
-import com.xmg.p2p.base.domain.Logininfo;
-import com.xmg.p2p.base.vo.VerifyCodeVO;
+
 
 /**
  * 用于存放当前用户的上下文
